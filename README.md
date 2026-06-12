@@ -1,20 +1,58 @@
-Task 2: Titanic Dataset - Data Cleaning and Exploratory Data Analysis
-Objective
+# Titanic Dataset - Data Cleaning and Exploratory Data Analysis
 
-Perform data cleaning and exploratory data analysis to uncover relationships and trends in the Titanic dataset.
+## Project Overview
 
-Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Key Activities
-Handling missing values
-Data cleaning and preprocessing
-Survival analysis
-Correlation analysis
-Data visualization
-Outcome
+This project focuses on performing Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic dataset. The objective is to analyze passenger information, handle missing values, explore relationships between variables, and identify key factors that influenced passenger survival.
 
-Discovered key factors affecting passenger survival, including gender, passenger class, age, and fare.
+## Dataset
+
+The Titanic dataset contains demographic and travel information of passengers aboard the RMS Titanic, including details such as age, gender, passenger class, fare, and survival status.
+
+## Objectives
+
+* Clean and preprocess the dataset
+* Handle missing values and data inconsistencies
+* Perform exploratory data analysis
+* Visualize relationships between variables
+* Identify patterns and trends affecting survival
+
+## Tools and Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## Analysis Performed
+
+* Missing Value Treatment
+* Data Cleaning and Preprocessing
+* Survival Distribution Analysis
+* Gender-wise Survival Analysis
+* Passenger Class Analysis
+* Age Distribution Analysis
+* Correlation Analysis
+* Data Visualization
+
+## Key Findings
+
+* Female passengers had a significantly higher survival rate than male passengers.
+* First-class passengers were more likely to survive than passengers in lower classes.
+* Passenger age and fare showed meaningful relationships with survival outcomes.
+* Passenger class was one of the strongest indicators of survival.
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Feature Understanding
+
+## Author
+
+**Vaishnavi Chaudhary**
+B.Tech CSE (AI & ML)
+Aspiring Data Scientist & Machine Learning Enthusiast
+
